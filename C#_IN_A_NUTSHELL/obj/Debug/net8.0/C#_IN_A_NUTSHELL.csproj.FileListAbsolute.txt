@@ -1,0 +1,14 @@
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/bin/Debug/net8.0/C#_IN_A_NUTSHELL
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/bin/Debug/net8.0/C#_IN_A_NUTSHELL.deps.json
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/bin/Debug/net8.0/C#_IN_A_NUTSHELL.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/bin/Debug/net8.0/C#_IN_A_NUTSHELL.dll
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/bin/Debug/net8.0/C#_IN_A_NUTSHELL.pdb
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.dll
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/refint/C#_IN_A_NUTSHELL.dll
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.pdb
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/C#_IN_A_NUTSHELL.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/C#_IN_A_NUTSHELL/obj/Debug/net8.0/ref/C#_IN_A_NUTSHELL.dll

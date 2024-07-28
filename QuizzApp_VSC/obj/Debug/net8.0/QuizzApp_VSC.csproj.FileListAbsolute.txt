@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/bin/Debug/net8.0/QuizzApp_VSC
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/bin/Debug/net8.0/QuizzApp_VSC.deps.json
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/bin/Debug/net8.0/QuizzApp_VSC.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/bin/Debug/net8.0/QuizzApp_VSC.dll
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/bin/Debug/net8.0/QuizzApp_VSC.pdb
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.dll
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/refint/QuizzApp_VSC.dll
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.pdb
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/ref/QuizzApp_VSC.dll
+/Users/jonathan/Documents/C#VSC/QuizzApp_VSC/obj/Debug/net8.0/QuizzApp_VSC.sourcelink.json
