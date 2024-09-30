@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.sourcelink.json
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/bin/Debug/net8.0/3_Inheritance_Excercise
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/bin/Debug/net8.0/3_Inheritance_Excercise.deps.json
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/bin/Debug/net8.0/3_Inheritance_Excercise.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/bin/Debug/net8.0/3_Inheritance_Excercise.dll
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/bin/Debug/net8.0/3_Inheritance_Excercise.pdb
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.dll
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/refint/3_Inheritance_Excercise.dll
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.pdb
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/3_Inheritance_Excercise.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/3_Inheritance_Excercise/obj/Debug/net8.0/ref/3_Inheritance_Excercise.dll

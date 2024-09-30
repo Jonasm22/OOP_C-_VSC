@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/bin/Debug/net8.0/Arrays_TwoDimentional
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/bin/Debug/net8.0/Arrays_TwoDimentional.deps.json
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/bin/Debug/net8.0/Arrays_TwoDimentional.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/bin/Debug/net8.0/Arrays_TwoDimentional.dll
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/bin/Debug/net8.0/Arrays_TwoDimentional.pdb
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.sourcelink.json
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.dll
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/refint/Arrays_TwoDimentional.dll
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.pdb
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/Arrays_TwoDimentional.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/Arrays_TwoDimentional/obj/Debug/net8.0/ref/Arrays_TwoDimentional.dll

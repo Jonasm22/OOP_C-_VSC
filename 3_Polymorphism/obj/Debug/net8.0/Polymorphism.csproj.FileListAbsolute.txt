@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/Polymorphism/bin/Debug/net8.0/Polymorphism
+/Users/jonathan/Documents/C#VSC/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/Users/jonathan/Documents/C#VSC/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/Users/jonathan/Documents/C#VSC/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll

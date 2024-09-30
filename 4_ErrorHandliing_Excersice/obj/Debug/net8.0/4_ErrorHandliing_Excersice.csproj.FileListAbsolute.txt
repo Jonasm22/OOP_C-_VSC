@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/bin/Debug/net8.0/4_ErrorHandliing_Excersice
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/bin/Debug/net8.0/4_ErrorHandliing_Excersice.deps.json
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/bin/Debug/net8.0/4_ErrorHandliing_Excersice.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/bin/Debug/net8.0/4_ErrorHandliing_Excersice.dll
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/bin/Debug/net8.0/4_ErrorHandliing_Excersice.pdb
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.sourcelink.json
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.dll
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/refint/4_ErrorHandliing_Excersice.dll
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.pdb
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/4_ErrorHandliing_Excersice.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/4_ErrorHandliing_Excersice/obj/Debug/net8.0/ref/4_ErrorHandliing_Excersice.dll

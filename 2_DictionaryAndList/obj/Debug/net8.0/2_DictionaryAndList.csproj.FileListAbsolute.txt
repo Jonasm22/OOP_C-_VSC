@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/bin/Debug/net8.0/2_DictionaryAndList
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/bin/Debug/net8.0/2_DictionaryAndList.deps.json
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/bin/Debug/net8.0/2_DictionaryAndList.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/bin/Debug/net8.0/2_DictionaryAndList.dll
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/bin/Debug/net8.0/2_DictionaryAndList.pdb
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.sourcelink.json
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.dll
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/refint/2_DictionaryAndList.dll
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.pdb
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/2_DictionaryAndList.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/2_DictionaryAndList/obj/Debug/net8.0/ref/2_DictionaryAndList.dll

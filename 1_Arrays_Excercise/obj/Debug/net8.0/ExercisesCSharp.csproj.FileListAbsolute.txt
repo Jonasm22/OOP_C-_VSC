@@ -1,0 +1,15 @@
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/bin/Debug/net8.0/ExercisesCSharp
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/bin/Debug/net8.0/ExercisesCSharp.deps.json
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/bin/Debug/net8.0/ExercisesCSharp.runtimeconfig.json
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/bin/Debug/net8.0/ExercisesCSharp.dll
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/bin/Debug/net8.0/ExercisesCSharp.pdb
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.AssemblyInfoInputs.cache
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.AssemblyInfo.cs
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.csproj.CoreCompileInputs.cache
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.sourcelink.json
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.dll
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/refint/ExercisesCSharp.dll
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.pdb
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ExercisesCSharp.genruntimeconfig.cache
+/Users/jonathan/Documents/C#VSC/ExercisesCSharp/obj/Debug/net8.0/ref/ExercisesCSharp.dll

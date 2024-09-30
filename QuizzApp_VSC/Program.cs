@@ -17,7 +17,7 @@ public class Program
 
 
 
-                     ),          
+                     ),
                      new Question(
                       "What is 2+2: ?", // question text 
                      new string[] { "3", "4", "5", "6"}, // Answer Array
@@ -25,12 +25,12 @@ public class Program
 
 
 
-                     ),           
+                     ),
                      new Question(
                       "Who wrote Hamblet?", // question text 
                      new string[] { "Goethe", "Austen", "Shakespeare", "Dickes"}, // Answer Array
                             2// correct asnwer
-                     ) 
+                     )
               };
 
               Quiz myQuiz = new Quiz(questions);
